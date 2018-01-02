@@ -1,0 +1,19 @@
+{
+  "name": "tern-jest",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "jest.json",
+  "author": "Meisam Khezerloo <m.khezerloo@gmail.com>",
+  "description": "A Tern plugin adding support for jest.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kezer/tern-jest.git"
+  },
+  "dependencies": {
+    "tern": "^0.21.0"
+  },
+  "keywords": [
+    "tern",
+    "jest"
+  ]
+}
